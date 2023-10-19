@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rana Sabry
 - 👀 I’m interested in Bioinformatics 
-- 🌱 I’m currently learning Deep Learning and Backend(.Net) besides my main track
+- 🌱 I’m currently learning AI and Backend(.Net) besides my main track
 - 📫 How to reach me ranaasabrii2@gmail.com
 
 <!---
