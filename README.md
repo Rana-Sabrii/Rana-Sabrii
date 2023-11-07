@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Rana Sabry
-- 👀 I’m interested in Bioinformatics 
-- 🌱 I’m currently learning AI and Backend(.Net) besides my main track
+- 👋 Hi, I’m Rana Sabry 👩🏻‍🔬
+- 👀 I’m a Bioinformatics Student 
+- 🌱 I’m interested in Cytogenetics
+- 👩🏻‍💻 I study Data Science to integrate it with my main Track
 - 📫 How to reach me ranaasabrii2@gmail.com
 
 <!---
